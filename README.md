@@ -1,5 +1,4 @@
 # jeux-javascript-algo
-jeux javascrcipt
 
 # exercices et jeux en js
 
